@@ -1,0 +1,94 @@
+/* margin-bottom */
+
+.margin-bottom-min-4 {
+    margin-bottom: -4px;
+}
+
+.margin-bottom-0 {
+    margin-bottom: 0;
+}
+
+.margin-bottom-10 {
+    margin-bottom: 10px;
+}
+
+.margin-bottom-15 {
+    margin-bottom: 15px;
+}
+
+.margin-bottom-20 {
+    margin-bottom: 20px;
+}
+
+.margin-bottom-30 {
+    margin-bottom: 30px;
+}
+
+.margin-bottom-40 {
+    margin-bottom: 40px;
+}
+
+.margin-bottom-50 {
+    margin-bottom: 50px;
+}
+
+.margin-bottom-120 {
+    margin-bottom: 120px;
+}
+
+.margin-bottom-300 {
+    margin-bottom: 300px;
+}
+
+.margin-bottom-5-persantge {
+    margin-bottom: 5%;
+}
+
+/* ------------------------------------------------------------- */
+
+
+/* text align */
+
+.text-align-right {
+    text-align: right;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.text-align-left {
+    text-align: left;
+}
+
+
+/* ------------------------------------------ */
+
+
+/*  text-transform */
+
+
+.text-transform-upper-case {
+    text-transform: uppercase;
+}
+
+.text-transform-capitalize {
+    text-transform: capitalize;
+}
+
+
+/* -------------------------------------- */
+
+
+/* float */
+
+
+.float-left {
+    float: left;
+}
+
+/* ---------------------------------- */
+
+.clear {
+    clear: both;
+}
